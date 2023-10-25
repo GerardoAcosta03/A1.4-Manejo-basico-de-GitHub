@@ -1,1 +1,1 @@
-![Fichero gerardo.md](./Gerardo.md)
+[Fichero gerardo.md](./Gerardo.md)
