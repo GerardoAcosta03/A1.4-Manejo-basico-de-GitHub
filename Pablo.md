@@ -1,3 +1,5 @@
+![Imagen nueva de Github](./estatua_perico.jfif)
+
 # Jefes de Elden Ring
 
 En esta página vamos a comentar el top 5 de los jefes más difíciles del juego
