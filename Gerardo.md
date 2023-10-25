@@ -1,3 +1,5 @@
+![Imagen de Github](./grancanaria2030.jpg)
+
 # Mejores armas del juego
 
 Elden Ring nos ofrece una de las mayores variedades de armas armas, si no la mayor, entre los juegos de su tipo. Pero es que, además, nos permite modificar las armas en cualquier momento, haciendo que las posibilidades a la hora de elegir
