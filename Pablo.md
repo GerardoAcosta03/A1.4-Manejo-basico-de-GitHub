@@ -2,6 +2,8 @@
 
 # Jefes de Elden Ring
 
+[Fichero readme.md](./readme.md)
+
 En esta página vamos a comentar el top 5 de los jefes más difíciles del juego
 
 ## Número de intentos por jefe
