@@ -1,4 +1,4 @@
-![Imagen nueva de Github](./estatua_perico.jfif)
+![Imagen nueva de Github](./images/estatua_perico.jfif)
 
 # Jefes de Elden Ring
 

@@ -1,4 +1,4 @@
-![Imagen de Github](./grancanaria2030.jpg)
+![Imagen de Github](./images/grancanaria2030.jpg)
 
 # Mejores armas del juego
 
